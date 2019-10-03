@@ -14,18 +14,19 @@ do {
 System.out.print("Choose menu item: "); 
 menuItem = in.nextInt(); 
 switch (menuItem) { 
-case 1:
-        System.out.println("You've chosen item #1"); 
-        System.out.println("My name is Steven."); 
-        break; 
+case 1: 
+System.out.println("You've chosen item #1"); 
+System.out.println("My name is Arron.");
+// do something... 
+break; 
 case 2: 
 System.out.println("You've chosen item #2");
- System.out.println("My name is Arron."); 
+System.out.println("My name is Steven.");
 // do something... 
 break; 
 case 3: 
 System.out.println("You've chosen item #3"); 
-// do something... 
+System.out.println("My name is Carlos Leal.");
 break; 
 case 4: 
 System.out.println("You've chosen item #4"); 
